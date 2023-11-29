@@ -1,4 +1,4 @@
-# express-template [![Production CI](https://github.com/hec7orci7o/express-template/actions/workflows/production.yml/badge.svg)](https://github.com/hec7orci7o/express-template/actions/workflows/production.yml)
+# EDUconline Backend
 
 ![Beta](https://img.shields.io/badge/Status-Beta-red)
 ![node](https://img.shields.io/badge/node-20.x-blue)
